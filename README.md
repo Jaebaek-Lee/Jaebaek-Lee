@@ -1,5 +1,5 @@
 ### ThinkingVincent 🎨
-
+[![Solved.ac Profile](http://dlwoqor0529.wtf/api/v2/generate_badge?boj=dlwoqor0529)
 <!--
 **ThinkingVincent/ThinkingVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
