@@ -1,4 +1,3 @@
-# 🎨ThinkingVincent
 ![header](https://capsule-render.vercel.app/api?type=waving&color=77ACC7&height=300&section=header&text=Thinking%20Vincent&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Thinking%20Vincent%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwoqor0529)](https://solved.ac/dlwoqor0529/)
 ## 💪Skills
