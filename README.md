@@ -3,6 +3,8 @@
 <div align=center>
 
 ![Thinking Vincent's GitHub stats](https://github-readme-stats-wooseok123.vercel.app/api?username=ThinkingVincent)
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwoqor0529)](https://solved.ac/dlwoqor0529/)
 ## 💪Skills
 ### Platforms & Languages
