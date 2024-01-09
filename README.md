@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Thinking%20Vincent&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaebaek%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ThinkingVincent&descAlignY=51&descAlign=62)
 
 <div align=center>
 
-![Thinking Vincent's GitHub stats](https://github-readme-stats-wooseok123.vercel.app/api?username=ThinkingVincent)
+![Jaebaek Lee's GitHub stats](https://github-readme-stats-wooseok123.vercel.app/api?username=Jaebaek-Lee)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwoqor0529)](https://solved.ac/dlwoqor0529/)
